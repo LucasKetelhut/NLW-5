@@ -31,6 +31,7 @@ class _QuizWidgetState extends State<QuizWidget> {
           Text(
             widget.question.title,
             style: AppTextStyles.heading,
+            textAlign: TextAlign.center,
           ),
           SizedBox(height: 24),
           for (var i = 0; i < widget.question.answers.length; i++)
