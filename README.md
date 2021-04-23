@@ -1,5 +1,5 @@
 # NLW-5 (Trilha Flutter)
-Aplicação desenvolvida durante a quinta edição da Next Level Week, organizada pela Rocketseat. Um evento que dura uma semana toda, voltada pra o desenvolvimento profissional dos participantes, em busca de um próximo nível. Aulas são soltadas todo dia de segunda a sexta e todo conteúdo é retirado do ar no final do domingo.
+Aplicação desenvolvida durante a quinta edição da Next Level Week, organizada pela Rocketseat. Um evento que dura uma semana toda, voltada pra o desenvolvimento profissional dos participantes, em busca de um próximo nível. As aulas são publicadas todos os dias de segunda a sexta e todo conteúdo é retirado do ar no final do domingo.
 
 ![](assets/images/DevQuiz.png)
 
